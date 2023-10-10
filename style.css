@@ -1,0 +1,11 @@
+.hero-container{
+    height: 100vh;
+    background:url(https://wallpapercave.com/wp/wp5859443.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.row{
+    background-color: rgb(139, 93, 54);
+}
